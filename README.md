@@ -20,6 +20,7 @@ A largo plazo: Realizar una maestría, especializarme en inteligencia artificial
 
 
 📫 Contáctame:
+
 Estoy abierto a colaborar en proyectos y propuestas interesantes.
 
 Email: lautarotomas082@icloud.com
@@ -51,6 +52,7 @@ Short and medium term: Gain experience in back-end development and establish mys
 Long term: Pursue a master’s degree, specialize in artificial intelligence, and contribute to the advancement of innovative technologies.
 
 📫 Contact Me:
+
 I’m open to collaborating on exciting projects and proposals.
 
 Email: lautarotomas082@icloud.com
