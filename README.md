@@ -21,8 +21,11 @@ A largo plazo: Realizar una maestría, especializarme en inteligencia artificial
 
 📫 Contáctame:
 Estoy abierto a colaborar en proyectos y propuestas interesantes.
+
 Email: lautarotomas082@icloud.com
+
 Tel: +54 9 299 501-1237
+
 LinkedIn: www.linkedin.com/in/lautaro-tomas-montero
 
 
@@ -49,7 +52,10 @@ Long term: Pursue a master’s degree, specialize in artificial intelligence, an
 
 📫 Contact Me:
 I’m open to collaborating on exciting projects and proposals.
+
 Email: lautarotomas082@icloud.com
+
 Tel: +54 9 299 501-1237
+
 LinkedIn: www.linkedin.com/in/lautaro-tomas-montero
 
