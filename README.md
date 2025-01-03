@@ -4,16 +4,16 @@ Desarrollador Back-End | Apasionado por la tecnología y la innovación
 
 💡 Acerca de mí:
 
-Tengo 18 años y soy de Neuquén Capital. Mi interés por la tecnología comenzó en la secundaria cuando elegí la especialidad de electrónica. Aunque al principio estaba indeciso sobre mi futuro profesional, descubrir la programación y la inteligencia artificial marcó un punto de inflexión en mi vida. Me fascina crear, probar y ver cómo algo que requiere tanta dedicación al final funciona, lo que ha alimentado mi deseo de seguir aprendiendo constantemente.
+Tengo 18 años y soy de Neuquén Capital. Mi interés por la tecnología comenzó en la secundaria cuando elegí la especialidad de electrónica. Aunque al principio estaba indeciso sobre mi futuro profesional, descubrir la programación y la inteligencia artificial marcó un punto de inflexión en mi vida. **Me fascina crear, probar y ver cómo algo que requiere tanta dedicación al final funciona, lo que ha alimentado mi deseo de seguir aprendiendo constantemente**.
 
 🎓 Próximamente:
 
-Estudiaré la Licenciatura en Ciencias de la Computación en la Universidad Nacional del Comahue, con la meta de expandir mis conocimientos y fortalecer mis habilidades técnicas y blandas.
+Estudiaré la ___Licenciatura en Ciencias de la Computación en la Universidad Nacional del Comahue___, con la meta de expandir mis conocimientos y fortalecer mis habilidades técnicas y blandas.
 
 💻 Habilidades técnicas:
 
-Desarrollo back-end con Node.js, TypeScript, NestJS, Express, TypeORM, PostgreSQL y MongoDB.
-Experiencia en análisis crítico y resolución de problemas, cualidades adquiridas a través de mi formación en electrónica.
+Desarrollo back-end con **Node.js**, **TypeScript**, **NestJS**, **Express**, **TypeORM**, **PostgreSQL** y **MongoDB**.
+Experiencia en **análisis crítico** y **resolución de problemas**, cualidades adquiridas a través de mi formación en electrónica.
 Nivel avanzado de inglés en lectura y escritura, e intermedio alto en escucha y habla.
 
 
