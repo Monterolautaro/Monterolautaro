@@ -42,17 +42,17 @@ Back-End Developer | Passionate about Technology and Innovation
 
 💡 About Me:
 
-I’m 18 years old and from Neuquén Capital. My interest in technology began during high school when I chose to specialize in electronics. Although I was initially unsure about my professional future, discovering programming and artificial intelligence was a turning point in my life. I’m fascinated by creating, testing, and seeing how something that requires dedication comes to life, which fuels my constant desire to keep learning.
+I’m 18 years old and from Neuquén Capital. My interest in technology began during high school when I chose to specialize in electronics. Although I was initially unsure about my professional future, discovering programming and artificial intelligence was a turning point in my life. **I’m fascinated by creating, testing, and seeing how something that requires dedication comes to life, which fuels my constant desire to keep learning**.
 
 🎓 Coming Soon:
 
-I will be studying for a Bachelor's Degree in Computer Science at the National University of Comahue, with the goal of expanding my knowledge and strengthening my technical skills.
+I will be studying for a ___Bachelor's Degree in Computer Science at the National University of Comahue___, with the goal of expanding my knowledge and strengthening my technical skills.
 
 
 💻 Technical Skills:
 
-Back-end development with Node.js, TypeScript, NestJS, Express, TypeORM, PostgreSQL, and MongoDB.
-Critical thinking and problem-solving skills, developed through my background in electronics.
+Back-end development with **Node.js**, **TypeScript**, **NestJS**, **Express**, **TypeORM**, **PostgreSQL**, and **MongoDB**.
+**Critical thinking** and **problem-solving** skills, developed through my background in electronics.
 Advanced level of English proficiency in all four areas: reading, writing, listening, and speaking.
 
 🚀 Objectives:
