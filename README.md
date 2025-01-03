@@ -20,7 +20,7 @@ Nivel avanzado de inglés en lectura y escritura, e intermedio alto en escucha y
 🚀 Objetivos:
 
 A corto y mediano plazo: Adquirir experiencia en desarrollo back-end y consolidarme en el sector IT mientras estudio en la universidad.
-A largo plazo: Realizar una maestría, especializarme en inteligencia artificial y contribuir al avance de tecnologías innovadoras.
+A largo plazo: Realizar una maestría, especializarme en inteligencia artificial y <u>neurociencia computacional</u> para contribuir al avance de tecnologías innovadoras.
 
 
 📫 Contáctame:
