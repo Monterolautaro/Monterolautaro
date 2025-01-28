@@ -45,7 +45,7 @@ I am currently studying a ___Bachelor's Degree in Computer Science at the Nation
 
 💻 Technical Skills:
 
-Back-end development with **Python**, **Node.js**, **TypeScript**, **NestJS**, **Express**, **TypeORM**, **PostgreSQL**, and **MongoDB**. Use of libraries like **Scikit-learn** o **TensorFlow**.
+Back-end development with **Python**, **Node.js**, **TypeScript**, **NestJS**, **Express**, **TypeORM**, **PostgreSQL**, and **MongoDB**. Use of libraries like **Scikit-learn** or **TensorFlow**.
 **Critical thinking** and **problem-solving** skills, developed through my background in electronics.
 Advanced level of English proficiency in all four areas: reading, writing, listening, and speaking.
 
