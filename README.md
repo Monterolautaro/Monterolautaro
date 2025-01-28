@@ -9,7 +9,7 @@ Actualmente estoy estudiando una ___Licenciatura en Ciencias de la Computación 
 
 💻 Habilidades técnicas:
 
-Desarrollo back-end con **Node.js**, **TypeScript**, **NestJS**, **Express**, **TypeORM**, **PostgreSQL** y **MongoDB**.
+Desarrollo back-end con **Python**, **Node.js**, **TypeScript**, **NestJS**, **Express**, **TypeORM**, **PostgreSQL** y **MongoDB**. Uso de libreriías como **Scikit-learn** o **TensorFlow**.
 Experiencia en **análisis crítico** y **resolución de problemas**, cualidades adquiridas a través de mi formación en electrónica.
 Nivel avanzado de inglés en lectura y escritura, e intermedio alto en escucha y habla.
 
@@ -45,7 +45,7 @@ I am currently studying a ___Bachelor's Degree in Computer Science at the Nation
 
 💻 Technical Skills:
 
-Back-end development with **Node.js**, **TypeScript**, **NestJS**, **Express**, **TypeORM**, **PostgreSQL**, and **MongoDB**.
+Back-end development with **Python**, **Node.js**, **TypeScript**, **NestJS**, **Express**, **TypeORM**, **PostgreSQL**, and **MongoDB**. Use of libraries like **Scikit-learn** o **TensorFlow**.
 **Critical thinking** and **problem-solving** skills, developed through my background in electronics.
 Advanced level of English proficiency in all four areas: reading, writing, listening, and speaking.
 
