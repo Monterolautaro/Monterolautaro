@@ -1,6 +1,6 @@
 👋 ¡Hola! Soy Lautaro Montero
 
-Desarrollador Back-End | Apasionado por la tecnología y la innovación
+Desarrollador Fullstack | Apasionado por la tecnología y la innovación
 
 💡 Acerca de mí:
 
@@ -9,20 +9,25 @@ Actualmente estoy estudiando una ___Licenciatura en Ciencias de la Computación 
 
 💻 Habilidades técnicas:
 
-Desarrollo back-end con **Python**, **Node.js**, **TypeScript**, **NestJS**, **Express**, **TypeORM**, **PostgreSQL** y **MongoDB**. Uso de libreriías como **Scikit-learn** o **TensorFlow**.
+Desarrollo back-end con **Node.js**, **TypeScript**, **NestJS**, **Express**, **TypeORM**, **PostgreSQL** y **MongoDB**. Consultas **raw SQL**.
+Desarrollo front-end con **TypeScript**, **Angular**, **React**.
+Gestor de repositorios: **Github*** y **Gitlab**
+
+Plus: Cuento con conocimientos en **Java** y **Python**. Uso de libreriías como **Scikit-learn** o **TensorFlow**.
+
 Experiencia en **análisis crítico** y **resolución de problemas**, cualidades adquiridas a través de mi formación en electrónica.
 Nivel avanzado de inglés en lectura y escritura, e intermedio alto en escucha y habla.
 
 
 🚀 Objetivos:
 
-A corto y mediano plazo: Adquirir experiencia en desarrollo back-end y consolidarme en el sector IT mientras estudio en la universidad.
+A corto y mediano plazo: Adquirir experiencia en desarrollo de aplicaciones (mientras más complejas mejor) y consolidarme en el sector IT mientras estudio en la universidad.
 A largo plazo: Realizar una maestría, especializarme en inteligencia artificial y <u>neurociencia computacional</u> para contribuir al avance de tecnologías innovadoras.
 
 
 📫 Contáctame:
 
-Estoy abierto a colaborar en proyectos y propuestas interesantes.
+Estoy abierto a colaborar en proyectos y propuestas.
 
 Email: lautarotomas082@icloud.com
 
@@ -35,7 +40,7 @@ LinkedIn: www.linkedin.com/in/lautaro-tomas-montero
 
 👋 Hi! I'm Lautaro Montero
 
-Back-End Developer | Passionate about Technology and Innovation
+Fullstack developer | Passionate about Technology and Innovation
 
 💡 About Me:
 
@@ -45,7 +50,13 @@ I am currently studying a ___Bachelor's Degree in Computer Science at the Nation
 
 💻 Technical Skills:
 
-Back-end development with **Python**, **Node.js**, **TypeScript**, **NestJS**, **Express**, **TypeORM**, **PostgreSQL**, and **MongoDB**. Use of libraries like **Scikit-learn** or **TensorFlow**.
+Back-end development with **Python**, **Node.js**, **TypeScript**, **NestJS**, **Express**, **TypeORM**, **PostgreSQL**, and **MongoDB**. **Raw SQL** queries.
+Front-end development with **TypeScript**, **Angular**, **React**
+Repository management: **Github** and **Gitlab**
+
+Plus: I count with experience on **Java** and **Python**. Use of libraries like **Scikit-learn** or **TensorFlow**.
+
+
 **Critical thinking** and **problem-solving** skills, developed through my background in electronics.
 Advanced level of English proficiency in all four areas: reading, writing, listening, and speaking.
 
