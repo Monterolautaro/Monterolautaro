@@ -10,7 +10,9 @@ Actualmente estoy estudiando una ___Licenciatura en Ciencias de la Computación 
 💻 Habilidades técnicas:
 
 Desarrollo back-end con **Node.js**, **TypeScript**, **NestJS**, **Express**, **TypeORM**, **PostgreSQL** y **MongoDB**. Consultas **raw SQL**.
+
 Desarrollo front-end con **TypeScript**, **Angular**, **React**.
+
 Gestor de repositorios: **Github*** y **Gitlab**
 
 Plus: Cuento con conocimientos en **Java** y **Python**. Uso de libreriías como **Scikit-learn** o **TensorFlow**.
@@ -51,7 +53,9 @@ I am currently studying a ___Bachelor's Degree in Computer Science at the Nation
 💻 Technical Skills:
 
 Back-end development with **Python**, **Node.js**, **TypeScript**, **NestJS**, **Express**, **TypeORM**, **PostgreSQL**, and **MongoDB**. **Raw SQL** queries.
+
 Front-end development with **TypeScript**, **Angular**, **React**
+
 Repository management: **Github** and **Gitlab**
 
 Plus: I count with experience on **Java** and **Python**. Use of libraries like **Scikit-learn** or **TensorFlow**.
