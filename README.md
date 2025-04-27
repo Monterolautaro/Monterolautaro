@@ -4,7 +4,7 @@ Desarrollador Fullstack | Apasionado por la tecnología y la innovación
 
 💡 Acerca de mí:
 
-Tengo 18 años y soy de Neuquén Capital. Mi interés por la tecnología comenzó en la secundaria cuando elegí la especialidad de electrónica. Aunque al principio estaba indeciso sobre mi futuro profesional, descubrir la programación y la inteligencia artificial marcó un punto de inflexión en mi vida. **Me fascina crear, probar y ver cómo algo que requiere tanta dedicación al final funciona, lo que ha alimentado mi deseo de seguir aprendiendo constantemente**.
+Tengo 19 años y soy de Neuquén Capital. Mi interés por la tecnología comenzó en la secundaria cuando elegí la especialidad de electrónica. Aunque al principio estaba indeciso sobre mi futuro profesional, descubrir la programación y la inteligencia artificial marcó un punto de inflexión en mi vida. **Me fascina crear, probar y ver cómo algo que requiere tanta dedicación al final funciona, lo que ha alimentado mi deseo de seguir aprendiendo constantemente**.
 Actualmente estoy estudiando una ___Licenciatura en Ciencias de la Computación en la Universidad Nacional del Comahue___, con la meta de expandir mis conocimientos y fortalecer mis habilidades técnicas y blandas.
 
 💻 Habilidades técnicas:
@@ -46,7 +46,7 @@ Fullstack developer | Passionate about Technology and Innovation
 
 💡 About Me:
 
-I’m 18 years old and from Neuquén Capital. My interest in technology began during high school when I chose to specialize in electronics. Although I was initially unsure about my professional future, discovering programming and artificial intelligence was a turning point in my life. **I’m fascinated by creating, testing, and seeing how something that requires dedication comes to life, which fuels my constant desire to keep learning**.
+I’m 19 years old and from Neuquén Capital. My interest in technology began during high school when I chose to specialize in electronics. Although I was initially unsure about my professional future, discovering programming and artificial intelligence was a turning point in my life. **I’m fascinated by creating, testing, and seeing how something that requires dedication comes to life, which fuels my constant desire to keep learning**.
 I am currently studying a ___Bachelor's Degree in Computer Science at the National University of Comahue___, with the goal of expanding my knowledge and strengthening my technical skills.
 
 
