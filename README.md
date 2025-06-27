@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy Lautaro Montero
+👋 ¡Hola! Soy Tomas Montero
 
 Desarrollador Fullstack | Apasionado por la tecnología y la innovación
 
@@ -40,7 +40,7 @@ LinkedIn: www.linkedin.com/in/lautaro-tomas-montero
 
 
 
-👋 Hi! I'm Lautaro Montero
+👋 Hi! I'm Tomas Montero
 
 Fullstack developer | Passionate about Technology and Innovation
 
