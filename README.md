@@ -1,30 +1,15 @@
-👋 ¡Hola! Soy Tomas Montero
+Desarrollo soluciones digitales que resuelven problemas específicos en flujos de negocio, combinando desarrollo fullstack, UX estratégico y automatización.
 
-Desarrollador Fullstack | Apasionado por la tecnología y la innovación
+Mi enfoque se centra en:
 
-💡 Acerca de mí:
+- Identificar "pain points" en procesos digitales o negocios.
+- Automatizar tareas repetitivas para mejorar la eficiencia operativa.
+- Diseñar MVPs funcionales que puedan escalar con el negocio utilizando tecnologías de desarrollo fullstack.
+- Integrar IA de manera práctica para optimizar decisiones y procesos.
 
-Tengo 19 años y soy de Neuquén Capital. Mi interés por la tecnología comenzó en la secundaria cuando elegí la especialidad de electrónica. Aunque al principio estaba indeciso sobre mi futuro profesional, descubrir la programación y la inteligencia artificial marcó un punto de inflexión en mi vida. **Me fascina crear, probar y ver cómo algo que requiere tanta dedicación al final funciona, lo que ha alimentado mi deseo de seguir aprendiendo constantemente**.
-Actualmente estoy estudiando una ___Licenciatura en Ciencias de la Computación en la Universidad Nacional del Comahue___, con la meta de expandir mis conocimientos y fortalecer mis habilidades técnicas y blandas.
+Tecnologías que utilizo: TypeScript, Angular, React, NestJS, Express, Supabase, PostgreSQL, Python, Java, Figma.
 
-💻 Habilidades técnicas:
-
-Desarrollo back-end con **Node.js**, **TypeScript**, **NestJS**, **Express**, **TypeORM**, **PostgreSQL** y **MongoDB**. Consultas **raw SQL**.
-
-Desarrollo front-end con **TypeScript**, **Angular**, **React**.
-
-Gestor de repositorios: **Github*** y **Gitlab**
-
-Plus: Cuento con conocimientos en **Java** y **Python**. Uso de libreriías como **Scikit-learn** o **TensorFlow**.
-
-Experiencia en **análisis crítico** y **resolución de problemas**, cualidades adquiridas a través de mi formación en electrónica.
-Nivel avanzado de inglés en lectura y escritura, e intermedio alto en escucha y habla.
-
-
-🚀 Objetivos:
-
-A corto y mediano plazo: Adquirir experiencia en desarrollo de aplicaciones (mientras más complejas mejor) y consolidarme en el sector IT mientras estudio en la universidad.
-A largo plazo: Realizar una maestría, especializarme en inteligencia artificial y <u>neurociencia computacional</u> para contribuir al avance de tecnologías innovadoras.
+Si estás buscando transformar procesos complejos en soluciones digitales eficientes y escalables, estoy abierto a colaborar en proyectos con previa validación de mercado.
 
 
 📫 Contáctame:
